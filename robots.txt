@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://plumbing-repair-san-antonio-tx.netlify.app/sitemap.xml
